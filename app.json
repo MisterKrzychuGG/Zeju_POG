@@ -1,0 +1,7 @@
+{
+  "name": "Zeju POG",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/eritislami/evobot",
+  "logo": "https://www.wykop.pl/cdn/c3201142/comment_161221914958sXSBTdFZBM2bvJMUgDRA,w1200h627f.jpg",
+  "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
+}
